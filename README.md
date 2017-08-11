@@ -9,9 +9,9 @@ A node library of my utilities stuff
 
 ## usage
 
-  var gvu = reuire('gvutils')
+  var gvu = require('gvutils')
 
-  cls = gvu.screen.cls
+  var cls = gvu.screen.cls
 
   // clear the tty screen
 
