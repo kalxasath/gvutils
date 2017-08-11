@@ -1,3 +1,5 @@
+[![Coverage Status](https://coveralls.io/repos/github/kalxasath/gvutils/badge.svg?branch=master)](https://coveralls.io/github/kalxasath/gvutils?branch=master)
+
 gvutils
 =======
 
